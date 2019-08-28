@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <<<<<<< HEAD
-        <title>Laravel</title>
+        <title>E-GOVERMENT</title>
 =======
         <title>HOME</title>
 >>>>>>> de1c90e802ee56900484c60b574014ca83e8f73b
