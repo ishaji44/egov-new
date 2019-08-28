@@ -5,7 +5,11 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<<<<<<< HEAD
         <title>Laravel</title>
+=======
+        <title>HOME</title>
+>>>>>>> de1c90e802ee56900484c60b574014ca83e8f73b
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -79,6 +83,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
+<<<<<<< HEAD
                     E-GOVERMENT
                 </div>
 
@@ -88,6 +93,17 @@
                     <a href="http://">menu 1</a>
                     <a href="http://">menu 1</a>
                     <a href="http://">menu 1</a>
+=======
+                    Laravel
+                </div>
+
+                <div class="links">
+                    <a href="https://laravel.com/docs">Documentation</a>
+                    <a href="https://laracasts.com">Laracasts</a>
+                    <a href="https://laravel-news.com">News</a>
+                    <a href="https://forge.laravel.com">Forge</a>
+                    <a href="https://github.com/laravel/laravel">GitHub</a>
+>>>>>>> de1c90e802ee56900484c60b574014ca83e8f73b
                 </div>
             </div>
         </div>

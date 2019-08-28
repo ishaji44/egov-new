@@ -14,7 +14,11 @@
                         </div>
                     @endif
 
+<<<<<<< HEAD
                     Ini adalah halaman login
+=======
+                    You are logged in!
+>>>>>>> de1c90e802ee56900484c60b574014ca83e8f73b
                 </div>
             </div>
         </div>

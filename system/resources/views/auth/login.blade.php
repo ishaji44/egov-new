@@ -40,10 +40,30 @@
                         </div>
 
                         <div class="form-group">
+<<<<<<< HEAD
+=======
+                            <div class="col-md-6 col-md-offset-4">
+                                <div class="checkbox">
+                                    <label>
+                                        <input type="checkbox" name="remember" {{ old('remember') ? 'checked' : '' }}> Remember Me
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+>>>>>>> de1c90e802ee56900484c60b574014ca83e8f73b
                             <div class="col-md-8 col-md-offset-4">
                                 <button type="submit" class="btn btn-primary">
                                     Login
                                 </button>
+<<<<<<< HEAD
+=======
+
+                                <a class="btn btn-link" href="{{ route('password.request') }}">
+                                    Forgot Your Password?
+                                </a>
+>>>>>>> de1c90e802ee56900484c60b574014ca83e8f73b
                             </div>
                         </div>
                     </form>
